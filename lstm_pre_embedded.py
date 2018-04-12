@@ -1,3 +1,6 @@
+# Caravaku Lorent 1864618
+# Grelier Cédric 1864686
+
 import numpy as np
 import pandas as pd
 import os
